@@ -213,4 +213,4 @@ If you use `IDEX <https://idex.market>`_ check out my `python-idex <https://gith
 
 If you use `BigONE <https://big.one>`_ check out my `python-bigone <https://github.com/sammchardy/python-bigone>`_ library.
 
-.. image:: https://analytics-pixel.appspot.com/UA-111417213-1/github/python-kucoin?pixel
+
